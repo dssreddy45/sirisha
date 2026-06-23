@@ -1,0 +1,136 @@
+embedding_model,chunk_size,top_k,question,response,retrieval_accuracy,response_relevance,response_completeness,hallucination_score
+all-MiniLM-L6-v2,128,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,128,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,256,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-MiniLM-L6-v2,512,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,128,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,256,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+all-mpnet-base-v2,512,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,128,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,256,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,1,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,1,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,1,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,1,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,1,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,3,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,3,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,3,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,3,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,3,What is prompt engineering?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,5,What is Retrieval-Augmented Generation (RAG)?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,5,What are the key components of deep learning?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,5,What is BERT and who developed it?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,5,What are vector databases used for?,,0.0,0.0,0.0,0.5
+paraphrase-multilingual-MiniLM-L12-v2,512,5,What is prompt engineering?,,0.0,0.0,0.0,0.5
